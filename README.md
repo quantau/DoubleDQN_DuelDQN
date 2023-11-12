@@ -45,15 +45,19 @@ parallel branches, ultimately combining them in the output layer.
 - Episode Rewards Plot:
 - Plots the rewards obtained during the testing phase for the Double DQN agent.
 - We can see in the following graph that initially there is no reward and after learning the agent is able to mostly balance the pole.
-- This graph shows the reward ![](Aspose.Words.47452976-deaf-4627-bd2f-3c540ccb96d0.001.jpeg)
+- This graph shows the reward 
+![image](https://github.com/quantau/DoubleDQN_DuelDQN/assets/75159365/3b25e928-8762-450b-8504-3bc2bda30e49)
+
 
 of the trained agent, an episode is of length 500 moves and we can see that it is able to survive the entire episode.
 
-![](Aspose.Words.47452976-deaf-4627-bd2f-3c540ccb96d0.002.jpeg)
+![image](https://github.com/quantau/DoubleDQN_DuelDQN/assets/75159365/1afd5bb0-80ab-43b8-946d-7b02bf6c8d5b)
+
 
 - The following is the rewards of the trained agent playing the cartpole game.
 
-![](Aspose.Words.47452976-deaf-4627-bd2f-3c540ccb96d0.003.png)
+![image](https://github.com/quantau/DoubleDQN_DuelDQN/assets/75159365/9576e723-6bb4-4169-a4f8-e2ae6b5ec119)
+
 
 **Conclusion**
 
